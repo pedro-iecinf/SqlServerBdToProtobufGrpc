@@ -1,0 +1,16 @@
+{
+  "name": "sqltoproto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toProto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node toProto.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.0.1",
+    "sql-protobuf": "^1.0.1"
+  }
+}
