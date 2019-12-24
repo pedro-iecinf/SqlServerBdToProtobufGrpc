@@ -7,7 +7,7 @@ const executeQuery = async query => {
             user: 'test',
             password: 'test',
             server: 'LAPTOP-DAPHUL8T',
-            database: 'Your BD Here',
+            database: 'Your BD Here...',
         }
 
         await sql.connect(config)
